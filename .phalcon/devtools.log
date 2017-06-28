@@ -1,0 +1,12 @@
+Sat 24 14:50:05 zhibo php: [ERROR] E_PARSE: syntax error, unexpected '-', expecting ',' or ';' in C:\xampp\htdocs\chat-palcon\app\models\Coemntarios.php on line 11
+Sat 24 14:52:32 zhibo php: [ERROR] E_PARSE: syntax error, unexpected '-', expecting ',' or ';' in C:\xampp\htdocs\chat-palcon\app\models\Coemntarios.php on line 11
+Sat 24 14:54:47 zhibo php: [ERROR] E_PARSE: syntax error, unexpected '-', expecting ',' or ';' in C:\xampp\htdocs\chat-palcon\app\models\Coemntarios.php on line 11
+Tue 27 08:15:17 zhibo php: [ERROR] E_PARSE: syntax error, unexpected '-', expecting ',' or ';' in C:\xampp\htdocs\chat-palcon\app\models\Coemntarios.php on line 11
+Tue 27 08:15:56 zhibo php: [WARNING] E_WARNING: Phalcon\Assets\Resource::getContent(https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js): failed to open stream: Se produjo un error durante el intento de conexi�n ya que la parte conectada no respondi� adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexi�n establecida ya que el host conectado no ha podido responder.
+ in C:\xampp\htdocs\chat-palcon\cache\Phalcon_Web_Tools_Views__layouts_webtools.php on line 18
+Tue 27 08:15:56 zhibo php: [ERROR] Uncaught exception: Resource's content for 'https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js' cannot be read in C:\xampp\htdocs\chat-palcon\cache\Phalcon_Web_Tools_Views__layouts_webtools.php on line 18
+Tue 27 08:31:59 zhibo php: [ERROR] E_PARSE: syntax error, unexpected '-', expecting ',' or ';' in C:\xampp\htdocs\chat-palcon\app\models\Coemntarios.php on line 11
+Tue 27 08:32:18 zhibo php: [ERROR] E_PARSE: syntax error, unexpected '-', expecting ',' or ';' in C:\xampp\htdocs\chat-palcon\app\models\Coemntarios.php on line 11
+Tue 27 08:33:12 zhibo php: [ERROR] E_PARSE: syntax error, unexpected '-', expecting ',' or ';' in C:\xampp\htdocs\chat-palcon\app\models\Coemntarios.php on line 11
+Tue 27 08:34:58 zhibo php: [ERROR] E_PARSE: syntax error, unexpected '-', expecting ',' or ';' in C:\xampp\htdocs\chat-palcon\app\models\Coemntarios.php on line 11
+Tue 27 08:37:06 zhibo php: [ERROR] E_PARSE: syntax error, unexpected '-', expecting ',' or ';' in C:\xampp\htdocs\chat-palcon\app\models\Coemntarios.php on line 11
